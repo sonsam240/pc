@@ -99,8 +99,8 @@
                     0.015208514407277108,
                     1.0
                 ],
-                "metallicFactor": 0.36000001430511477,
-                "roughnessFactor": 0.0
+                "metallicFactor": 0.33000001311302187,
+                "roughnessFactor": 0.7400000095367432
             },
             "name": "default_gltf_material"
         }
